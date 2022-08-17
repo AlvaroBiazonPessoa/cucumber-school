@@ -1,4 +1,4 @@
-require "shoty"
+require "shouty"
 
 Given('Lucy is located {int} metres from Sean') do |distance|
     @Lucy = Shouty::Person.new
